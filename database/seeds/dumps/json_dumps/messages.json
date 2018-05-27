@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "subject": "Investigation Successful",
+        "to": "amowogbajegideon@gmail.com",
+        "from": "ADMIN",
+        "text": "Your tip has birth a successful investigation Thanks for the work you will recieve 25000which is 5% of the amount",
+        "status": 1,
+        "created_at": "2018-03-11 23:40:08",
+        "updated_at": "2018-03-11 23:49:38"
+    },
+    {
+        "id": 2,
+        "subject": "Investigation Successful",
+        "to": "amowogbajegideon@gmail.com",
+        "from": "ADMIN",
+        "text": "Hi Gideon, We have not been able to reach a accurate ..... on your tip",
+        "status": 1,
+        "created_at": "2018-03-11 23:40:25",
+        "updated_at": "2018-03-11 23:52:25"
+    }
+]

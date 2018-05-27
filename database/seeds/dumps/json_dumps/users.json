@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "firstname": "Gideon",
+        "lastname": "Amowogbaje",
+        "role": "admin",
+        "email": "amowogbajegideon@gmail.com",
+        "phone": "08174007780",
+        "pics_url": null,
+        "password": "$2y$10$TNGjHZsha87OgjnIdoRSS.AwOdK7Kv.KEEuOeV75YktkD2TgYec7e",
+        "remember_token": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "firstname": "Ayoyemi",
+        "lastname": "Adewumi",
+        "role": "regular",
+        "email": "ayoyemi@gmail.com",
+        "phone": "08174002780",
+        "pics_url": null,
+        "password": "$2y$10$aVmhyg.xiWngxHwT.immFeMTDsVj0N1gC3ksXgFqNNVceHSYJXxmy",
+        "remember_token": null,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "firstname": "Adenuga",
+        "lastname": "Adeola",
+        "role": "regular",
+        "email": "adenuga@gmail.com",
+        "phone": "08174005780",
+        "pics_url": null,
+        "password": "$2y$10$YcKf5Q7yWa.PPQ2u1ZOhpu6zdXj.vtTGkdnQ9wBnI6vZ\/Nf60Aw9a",
+        "remember_token": null,
+        "created_at": null,
+        "updated_at": null
+    }
+]

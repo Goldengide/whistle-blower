@@ -1,0 +1,121 @@
+
+Notice:
+Take Icons very important!!
+
+Things to check: 
+The Choice of Words and icons
+The Choice of colour
+
+
+Things to include to details:
+Social Media Address.
+
+
+Timetable
+Wednesday: Finish work on authentication
+           Check everything that's left to do so that you can include it in tomorrow's task
+Thursday: Finish work on the following
+           1. Events
+           2. Correction Check 
+           3. 
+Friday: Icon Check
+Saturday: From 4pm-6pm
+Monday: It's all about Data
+        Work on download of data
+        Inputing data 
+        Writing algorithm on other input method
+        Writing algorithm on data correction and merging to ensure data consistency
+Tuesday: Do Test run and turn over to Mr. Tommy
+         Upload to Bitbucket(automatically data security is ensured). Bitbucket account either opened by Mr. Tommy or you
+         Give the address to Mr. Tommy
+Wednesday: You can now follow up on the online upload and sit back also look out for file permission
+
+
+
+
+Authentications
+Users
+1. Ministers
+2. Registered Members
+3. Gepi Parters
+4. Attendeees
+5. First timers
+
+Admins
+1. Gepi-Admins
+2. Biodata-Admins
+3. Super-Admins
+4. General Overseer
+
+
+
+Requirements
+1. Each users must be have their dashboard
+
+
+
+
+Questions
+1. Should I create different pages for the login pages?
+or should it be the same Page?
+
+
+Disadvantages
+When you are admin you can't login as a user
+
+
+Advantages
+This ensures full package without stress integrated in a module.
+if this can be properly done it makes things a lot easier.
+I was also thinking I could add a feature that allows the user to make the most of this choice. i.e. you can decide to browse the site as a regular user if you are an admin.
+
+
+
+Alright let's get to work.
+
+
+
+So What do I do now.
+Create dashboards for the Admins & the users and program them accordingly to their preferences
+
+Users
+1. Ministers  -done
+2. Registered Members -done
+3. Gepi Parters - done
+4. Attendeees - done
+5. First timers - not yet
+                  First timers(This is more of a form to fill I will use google docs then use excel to import it to the users table)
+
+Admin
+1. Gepi-Admins
+2. Biodata-Admins
+3. Super-Admins
+4. General Overseer
+
+
+Duration: 2 hrs
+
+
+
+Contents
+1. Last Notification
+2. Progress on Contribution
+3. News on Events that will happen
+4. Most Critical informations like 
+Upcoming Events
+Statistics
+Analytics
+Progress Bar & Report
+
+So we have two main dashboards users and Admin
+How do we identify the varieties of users we have?
+No we don't need to identify we will find out by the following parameters 
+1. Date joined, gepi_partnership_id, membership_status
+
+For Admins, we find out by access-level
+
+
+
+
+Step 1: Create a Page where users login as they would, 
+
